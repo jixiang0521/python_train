@@ -1,0 +1,19 @@
+login_username = input('username:')
+login_password = input('password:')
+for username in pass :
+    for password in pass:
+        for count in range(3):
+          if login_username == username:
+            if login_password == password:
+                wel_info = 'Welcom  My Dear %u' %u (username)
+                print(wel_info)
+                break
+            else:
+                print('Password Is Error,Please Try Again')
+          else:
+            no_user_info = '''Sorry The User does not exit.
+                          Please Apply '''
+            print(no_user_info)
+
+        er_passwd_info = "Sorry Your Account Has Been Locked.You Can't Login Again"
+        print(er_passwd_info)
